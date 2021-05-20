@@ -1,0 +1,51 @@
+body{
+background-color:rgb(73,207,174) ;
+}
+
+.price-list{
+    background-color:white;
+    border-radius: 15px;
+    list-style: none;
+    text-align: center;
+    
+}
+.price-list-item{
+    width: 240px;
+    display: inline-block;
+    vertical-align: top;
+   
+}
+
+.adventage-list-item{
+    list-style: none;
+   
+}
+
+.price-list-headding{
+    text-transform: uppercase;
+}
+
+.price-list-headding-gray{
+    color: rgb(188,191,190);
+}
+
+.price-list-headding-yellow{
+    color: rgb(227,205,136);
+}
+
+.price-list-headding-red{
+    color: rgb(156,115,125);
+}
+
+.adventeg-list{
+    text-transform: uppercase;
+    list-style: none;
+}
+
+.just-text{
+    background-color: brown;
+}
+.just-text:hover{
+    background-color: darkblue;
+
+}
